@@ -1,141 +1,86 @@
-# Octopus: Origin-Centered Trauma Outreach Protection Under Survivor Sight
+# Octopus Framework
+Origin-Centered Trauma Outreach Protection Under Survivor Sight
 
-**Human first. Tech second.**
-
-Octopus is a survivor-centered coordination framework for child and youth trafficking prevention.
-
-It is not surveillance.
-It is not predictive policing.
-It is not automation.
-It is not an enforcement tool.
-It is not a product.
-
-It is a governance-locked coordination layer.
+Human first. Tech second.
 
 ---
 
-## What This Is
+## Classification
 
-Octopus is a structural framework designed to:
-
-- Reduce response latency through improved human coordination.
-- Preserve survivor dignity and consent.
-- Prevent institutional drift into surveillance or profiling.
-- Ensure human-in-the-loop review at every escalation point.
-
-AI within this framework synthesizes aggregate, non-identifiable patterns only.
-Humans make all decisions.
-
-No system component acts autonomously.
+Pilot Proposal Only  
+Not an operational system  
+Not a deployable enforcement tool  
 
 ---
 
-## What This Is Not
+## What Octopus Is
 
-Octopus does NOT:
+Octopus is a survivor-centered coordination framework designed to test whether response latency in child and youth trafficking prevention can be reduced without expanding surveillance, investigative authority, or enforcement powers.
 
-- Create new investigative powers.
-- Expand jurisdiction.
-- Assign individual risk scores.
-- Monitor communities.
-- Conduct biometric scraping.
-- Use facial recognition.
-- Automate referrals to law enforcement.
-- Enable predictive policing.
-- Enable mass surveillance.
+It operates strictly within existing legal authority.
 
-Any fork that introduces these capabilities is operating outside license authorization.
+It creates:
+- No new investigative powers
+- No new data access privileges
+- No automated enforcement mechanisms
+- No predictive policing capability
+- No risk scoring of individuals
 
----
+AI, where referenced, is limited to aggregate, non-identifiable pattern synthesis for decision-support only.
 
-## Governance Structure
+All outputs require documented human review and authorization.
 
-Octopus is survivor-governed.
-
-- Minimum two (2) survivor voting seats required in any official deployment.
-- Survivor veto required for changes to consent protocols or Blueprint methodology.
-- All governance changes must be documented.
-- Ethical compliance is enforced under the Hippocratic License 3.0.
-
-See:
-- SURVIVOR-BOARD.md
-- MISUSE-CLAUSE.md
-- AUDIT-LOG.md
-- SURVIVOR-DIGNITY-COVENANT.md
-
-If technical optimization conflicts with survivor dignity:
-Survivor dignity overrides system efficiency.
+Humans decide.
 
 ---
 
-## Architecture Overview
+## What Octopus Is Not
 
-Octopus operates through:
+Octopus is not:
 
-1. Survivor Blueprint Phase (Consent-based narrative foundation)
-2. Eight restricted integration pathways (“Tentacles”)
-3. Human-Reviewed Decision-Support Layer
-4. Governance & Non-Expansion Safeguards
+- A surveillance system
+- A monitoring platform
+- A watchlist generator
+- A predictive policing engine
+- A biometric tool
+- An evidentiary database
+- An automated referral mechanism
 
-All outputs are:
-- Aggregate
-- Non-identifiable
-- Non-persistent
-- Decision-support only
+No autonomous execution is permitted under this framework.
 
-There is no operational targeting layer.
-There is no profiling logic.
-There is no automated enforcement trigger.
+---
 
-Full framework details available in:
-docs/Octopus_Framework_Whitepaper_v1.0.md
+## Governance Principles
+
+- Survivor participation is voluntary, informed, written, and revocable.
+- No identifiable data is released.
+- Re-identification risk assessment is mandatory prior to release of aggregate outputs.
+- Human-in-the-loop at every escalation point.
+- No cross-linkage of intake streams by default.
+- No secondary use without additional consent or lawful authority.
+
+Human dignity overrides system efficiency.
+Human oversight overrides algorithmic output.
+Human consent overrides institutional speed.
 
 ---
 
 ## License
 
-This repository is licensed under the Hippocratic License 3.0.
+This repository is released under the Hippocratic License 3.0.
 
-Use of this framework is conditional upon ethical compliance.
+Additional child-protection-specific ethical constraints are outlined in:
+- CHILD-SAFETY-ADDENDUM.md
+- SURVIVOR-DIGNITY-COVENANT.md
+- ETHICAL-COVENANT.md
 
-Prohibited uses include:
-- Deportation enforcement
-- Predictive policing
-- Biometric surveillance
-- Harm to children, youth, or survivors
-
-Violation results in termination of license rights.
-
-See LICENSE for full terms.
+Forking is permitted under license terms.
+Operational deployment requires independent legal, privacy, and governance review.
 
 ---
 
-## Transparency Commitment
+## Status
 
-This repository does NOT store:
-
-- Victim records
-- Operational case data
-- Identifiable intake logs
-- Private communications
-
-This is a framework repository only.
-
-Human oversight is recorded.
-Ethical drift is visible.
-Authority does not expand.
-
----
-
-## Founder Note
-
-This framework exists because children deserve protection without becoming data points.
-
-This is infrastructure for dignity.
-
-Human first.
-Tech second..
-Respectfully Founder and Author,
-Brent W. Richardson
-BWR GROUP CANADA-ACAI DIVISION
-v1.0 – Governance Shell – Human-Controlled – Pilot Only
+Governance Shell – Frozen  
+Guardrail DNA: R4.2.3-FINAL  
+Pilot Proposal Only
