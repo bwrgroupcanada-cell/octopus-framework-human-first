@@ -11,7 +11,6 @@ body:
         All material changes to this framework require approval from survivor board members as defined in `SURVIVOR-BOARD.md`.
         
         **No changes will be merged without documented survivor consent.**
-        
   - type: textarea
     id: description
     attributes:
@@ -20,7 +19,6 @@ body:
       placeholder: Be specific about what files, logic, or language would be modified
     validations:
       required: true
-      
   - type: textarea
     id: impact
     attributes:
@@ -29,7 +27,6 @@ body:
       placeholder: Consider privacy, consent, scope, autonomy, transparency
     validations:
       required: true
-      
   - type: checkboxes
     id: guardrail-check
     attributes:
@@ -52,7 +49,10 @@ body:
           required: true
         - label: Does NOT reduce survivor governance authority
           required: true
-          
+        - label: Does NOT introduce evidentiary media ingestion, storage, or management
+          required: true
+        - label: Does NOT introduce cross-linkage of intake streams by default
+          required: true
   - type: checkboxes
     id: consent
     attributes:
@@ -65,14 +65,12 @@ body:
           required: true
         - label: I confirm this change will be submitted to survivor board members for approval before merging
           required: true
-          
   - type: textarea
     id: survivor-approval
     attributes:
       label: Survivor Board Approval (to be completed before merge)
       description: Leave blank until survivor board members review and approve
       placeholder: "Approved by: [Name/Identifier], Date: [YYYY-MM-DD]"
-      
   - type: markdown
     attributes:
       value: |
