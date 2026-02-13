@@ -47,3 +47,7 @@ If you use this framework to harm vulnerable people, you are operating outside l
 
 Report misuse:
 bwrgroupcanada@gmail.com
+
+O.C.T.O.P.U.S. Framework  
+Human First. Tech Second.  
+R4.2.3-FINAL Governance Lock
