@@ -26,6 +26,8 @@ I confirm this PR does **NOT**:
 - [ ] Remove or weaken mandatory human-in-the-loop requirements
 - [ ] Reduce survivor governance authority or consent protections
 - [ ] Violate any constraint listed in `README.md` under "What it is not (binding constraints)"
+- [ ] Introduce evidentiary media ingestion, storage, or management
+- [ ] Introduce cross-linkage of intake streams by default
 
 ---
 
