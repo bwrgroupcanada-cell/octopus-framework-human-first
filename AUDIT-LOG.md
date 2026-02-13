@@ -1,4 +1,6 @@
-# Audit Log — Transparency Record
+# O.C.T.O.P.U.S.
+Origin-Centered Trauma Outreach Protection Under Survivor Sight
+Audit Log — Transparency Record
 
 The Octopus Framework maintains a transparent development history.
 
