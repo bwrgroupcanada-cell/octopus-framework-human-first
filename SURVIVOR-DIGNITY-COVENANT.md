@@ -48,3 +48,7 @@ Human consent overrides institutional speed.
 
 Survivors are not inputs.
 They are the reason this exists.
+
+O.C.T.O.P.U.S. Framework  
+Human First. Tech Second.  
+R4.2.3-FINAL Governance Lock
