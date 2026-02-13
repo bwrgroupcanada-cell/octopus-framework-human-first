@@ -6,7 +6,7 @@ Classification: Governance Framework
 Operational Authority: None  
 Deployment Status: Not Deployed  
 
-Octopus is a coordination layer proposal only.
+O.C.T.O.P.U.S. is a coordination layer proposal only.
 
 It does not ingest live operational data.
 It does not operate autonomously.
