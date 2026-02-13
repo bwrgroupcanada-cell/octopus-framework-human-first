@@ -48,3 +48,7 @@ Octopus is a framework repository only.
 Human oversight is recorded.
 Code history is public.
 Ethical drift is visible.
+
+O.C.T.O.P.U.S. Framework  
+Human First. Tech Second.  
+R4.2.3-FINAL Governance Lock
