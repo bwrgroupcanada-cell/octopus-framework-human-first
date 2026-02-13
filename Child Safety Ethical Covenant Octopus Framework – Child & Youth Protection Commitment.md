@@ -1,5 +1,7 @@
-# Child Safety Ethical Covenant
-Octopus Framework – Child & Youth Protection Commitment
+# O.C.T.O.P.U.S.
+Origin-Centered Trauma Outreach Protection Under Survivor Sight 
+Child Safety Ethical Covenant
+Framework – Child & Youth Protection Commitment
 
 This framework is designed specifically for the protection of children and youth impacted by trafficking, exploitation, and abuse.
 
