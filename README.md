@@ -1,5 +1,5 @@
-# Octopus Framework
-Origin-Centered Trauma Outreach Protection Under Survivor Sight
+# O.C.T.O.P.U.S.
+Origin-Centered Trauma Outreach Protection Under Survivor Sight Framework
 
 Human first. Tech second.
 
