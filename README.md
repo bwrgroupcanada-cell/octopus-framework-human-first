@@ -59,7 +59,7 @@ AI (where used) synthesizes **aggregate, non-identifiable patterns only** for **
 This repository is released under the **Hippocratic License 3.0**.  
 Non-monetized intent: this framework is published as a **pilot proposal**, not a product.
 
-Report suspected misuse: **brent@octopusframework.org**
+Report suspected misuse: **bwgroupcanada@gmail.com**
 
 ---
 
