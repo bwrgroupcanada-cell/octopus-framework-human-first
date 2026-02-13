@@ -1,28 +1,13 @@
----
-name: Proposed Change
-about: Suggest a change or improvement to the project
----
+# Proposed Change Issue Template
 
-## Proposed Change
-
-### Description
-
-<!-- Provide a brief description of the proposed change -->
-
-### Motivation
-
-<!-- Explain why this change is necessary -->
-
-### Does NOT reduce survivor governance authority
-- [ ] Does NOT introduce evidentiary media ingestion, storage, or management
-- [ ] Does NOT introduce cross-linkage of intake streams by default
-
-### Related issues
-
-<!-- Link related issues, if any -->
-
-### Checklist
-- [ ] Changes have been tested
-- [ ] Documentation has been updated
-- [ ] Code follows the project's coding standards
-- [ ] My code has been reviewed by at least one other contributor
+## Guardrail Checklist
+- Does NOT introduce new investigative powers
+- Does NOT introduce bulk data ingestion  
+- Does NOT introduce biometric scraping, facial recognition, or watchlists  
+- Does NOT introduce risk scoring, profiling, or predictive policing  
+- Does NOT introduce mass surveillance or monitoring  
+- Does NOT introduce automated referral to law enforcement without human validation  
+- Does NOT remove or weaken mandatory human-in-the-loop requirements  
+- Does NOT reduce survivor governance authority  
+- Does NOT introduce evidentiary media ingestion, storage, or management  
+- Does NOT introduce cross-linkage of intake streams by default
