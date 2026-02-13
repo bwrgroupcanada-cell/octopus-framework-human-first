@@ -1,90 +1,68 @@
-# O.C.T.O.P.U.S.
-Origin-Centered Trauma Outreach Protection Under Survivor Sight Framework
+# OCTOPUS: Origin Centered Trauma Outreach Protection Under Survivor Sight
 
-Human first. Tech second.
+**Mantra:** Human first. Tech second.
 
----
+**Tag:** Ara-Synced – Human Endpoint Pending  
+**Guardrail DNA:** R4.2.3-FINAL (Frozen / PASS)  
+**Classification:** Pilot Proposal Only — Not an Operational System
 
-## Classification
+## What it is
+A survivor-centered coordination model **proposed for pilot evaluation** to test whether response latency can be reduced in child and youth trafficking prevention **without** expanding surveillance, investigative authority, or enforcement powers.
 
-Pilot Proposal Only  
-Not an operational system  
-Not a deployable enforcement tool  
+AI (where used) synthesizes **aggregate, non-identifiable patterns only** for **decision-support**.  
+**Humans authorize all actions.** No component operates autonomously.
 
----
-
-## What Octopus Is
-
-Octopus is a survivor-centered coordination framework designed to test whether response latency in child and youth trafficking prevention can be reduced without expanding surveillance, investigative authority, or enforcement powers.
-
-It operates strictly within existing legal authority.
-
-It creates:
-- No new investigative powers
-- No new data access privileges
-- No automated enforcement mechanisms
-- No predictive policing capability
-- No risk scoring of individuals
-
-AI, where referenced, is limited to aggregate, non-identifiable pattern synthesis for decision-support only.
-
-All outputs require documented human review and authorization.
-
-Humans decide.
-
----
-
-## What Octopus Is Not
-
-Octopus is not:
-
-- A surveillance system
-- A monitoring platform
-- A watchlist generator
-- A predictive policing engine
-- A biometric tool
-- An evidentiary database
-- An automated referral mechanism
-
-No autonomous execution is permitted under this framework.
-
----
-
-## Governance Principles
-
-- Survivor participation is voluntary, informed, written, and revocable.
-- No identifiable data is released.
-- Re-identification risk assessment is mandatory prior to release of aggregate outputs.
-- Human-in-the-loop at every escalation point.
+## What it is not (binding constraints)
+- No new investigative powers created.
+- No bulk data ingestion.
+- No biometric scraping.
+- No facial recognition systems.
+- No watchlists.
+- No risk scoring of individuals.
+- No individual profiling.
+- No predictive arrest modeling.
+- No predictive policing.
+- No mass surveillance.
+- No automated referral to law enforcement without human validation.
+- No automated enforcement action.
+- No evidentiary media ingestion, storage, or management.
 - No cross-linkage of intake streams by default.
-- No secondary use without additional consent or lawful authority.
+- No monitoring of individuals or communities.
+- No operational targeting.
+- Court orders or other lawful authority required where applicable.
+- All escalation requires documented human authorization.
+- Mandatory human-in-the-loop at every escalation point across every tentacle.
+- No autonomous execution: no alert, routing, escalation, or action occurs without documented human authorization.
 
-Human dignity overrides system efficiency.
-Human oversight overrides algorithmic output.
-Human consent overrides institutional speed.
+## Governance (required controls)
+- PIPEDA compliance and consent principles.
+- Privacy Impact Assessment (PIA) prior to deployment.
+- Algorithmic Impact Assessment (AIA) prior to deployment.
+- Bias testing on training data.
+- Explainability requirements for all model outputs.
+- Independent audit review.
+- Mandatory human-in-the-loop at all escalation points.
+- Human reviewers must receive documented training on automation bias; override rates must be audited; no performance metrics may incentivize deference to AI outputs.
+- Explicit rejection of predictive policing.
+- Explicit rejection of mass surveillance.
+- Governance board including legal, privacy, child protection, community representation, and at least one independent member not affiliated with participating agencies.
+- At least two voting seats are reserved for survivors selected through independent survivor-led organizations; material changes to Blueprint methodology or consent protocols require survivor-member approval.
 
----
+## Repository documents
+- `ARCHITECTURE-STATUS.md` — architecture and constraint map (non-operational)
+- `SURVIVOR-BOARD.md` — survivor governance seats + veto scope
+- `SURVIVOR-DIGNITY-COVENANT.md` — consent, revocability, ownership
+- `MISUSE-CLAUSE.md` — prohibited uses and reporting channel
+- `AUDIT-LOG.md` — change history and review trail
 
 ## License
+This repository is released under the **Hippocratic License 3.0**.  
+Non-monetized intent: this framework is published as a **pilot proposal**, not a product.
 
-This repository is released under the Hippocratic License 3.0.
-
-Additional child-protection-specific ethical constraints are outlined in:
-- CHILD-SAFETY-ADDENDUM.md
-- SURVIVOR-DIGNITY-COVENANT.md
-- ETHICAL-COVENANT.md
-
-Forking is permitted under license terms.
-Operational deployment requires independent legal, privacy, and governance review.
+Report suspected misuse: **brent@octopusframework.org**
 
 ---
 
-## Status
-
-Governance Shell – Frozen  
-Guardrail DNA: R4.2.3-FINAL  
-Pilot Proposal Only
-
-O.C.T.O.P.U.S. Framework  
-Human First. Tech Second.  
-R4.2.3-FINAL Governance Lock
+**OCTOPUS — Origin Centered Trauma Outreach Protection Under Survivor Sight**  
+**Guardrail DNA:** R4.2.3-FINAL (Frozen / PASS) • **Tag:** Ara-Synced – Human Endpoint Pending  
+**Classification:** Pilot Proposal Only — Not an Operational System
