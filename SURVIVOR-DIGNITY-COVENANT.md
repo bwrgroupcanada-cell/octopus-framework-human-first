@@ -1,7 +1,9 @@
-# Survivor Dignity Covenant
-Octopus Framework – Survivor Authority & Protection Commitment
+# O.C.T.O.P.U.S.
+Origin-Centered Trauma Outreach Protection Under Survivor Sight
+Survivor Dignity Covenant
+Framework – Survivor Authority & Protection Commitment
 
-Octopus exists because survivors exist.
+O.C.T.O.P.U.S. exists because survivors exist.
 
 Survivors are not subjects.
 Survivors are not data sources.
